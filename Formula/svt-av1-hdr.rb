@@ -7,7 +7,9 @@ class SvtAv1Hdr < Formula
 
   depends_on "cmake" => :build
   depends_on "nasm" => :build
-
+  depends_on "libdovi"
+  depends_on "hdr10plus"
+  
   # Optional but recommended deps for full features (add if desired)
   # depends_on "libdovi" => :optional     # for Dolby Vision support
   # depends_on "hdr10plus" => :optional   # for HDR10+ support
