@@ -1,4 +1,4 @@
-# Cee-jaym13 Svt-av1-hdr
+# cee-jaym13 SVT-AV1-HDR
 
 ## How do I install these formulae?
 
