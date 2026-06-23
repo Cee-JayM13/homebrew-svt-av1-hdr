@@ -18,7 +18,7 @@ class SvtAv1Hdr < Formula
   # so the library version stays consistent with the CLI already on disk.
   resource "hdr10plus_tool_src" do
     url "https://github.com/quietvoid/hdr10plus_tool/archive/refs/tags/1.7.2.tar.gz"
-    sha256 "d7e0dbae4a42cb2adb2def84f7e2c74c2617c3985c6c12d7d33782b6df74f07e"
+    sha256 "cc917e769bad85323c7f596179798cc96ac878a01ddfd53b210fecae4c891849"
   end
 
   def install
